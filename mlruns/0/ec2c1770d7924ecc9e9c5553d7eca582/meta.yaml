@@ -1,0 +1,15 @@
+artifact_uri: file:///home/stfwi/udacity/lesson-5-final-pipeline-release-and-deploy/genre_classification/mlruns/0/ec2c1770d7924ecc9e9c5553d7eca582/artifacts
+end_time: 1690831751773
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ec2c1770d7924ecc9e9c5553d7eca582
+run_name: delightful-moth-357
+run_uuid: ec2c1770d7924ecc9e9c5553d7eca582
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690831750229
+status: 4
+tags: []
+user_id: stfwi
