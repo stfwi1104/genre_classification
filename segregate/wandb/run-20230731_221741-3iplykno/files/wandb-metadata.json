@@ -1,0 +1,37 @@
+{
+    "os": "Linux-5.15.90.1-microsoft-standard-WSL2-x86_64-with-glibc2.35",
+    "python": "3.9.16",
+    "heartbeatAt": "2023-07-31T20:17:41.845856",
+    "startedAt": "2023-07-31T20:17:41.072932",
+    "docker": null,
+    "gpu": "NVIDIA GeForce RTX 3080",
+    "gpu_count": 1,
+    "cpu_count": 16,
+    "cuda": null,
+    "args": [
+        "--input_artifact",
+        "preprocessed_data.csv:latest",
+        "--artifact_root",
+        "data",
+        "--artifact_type",
+        "segregated_data",
+        "--test_size",
+        "0.3",
+        "--random_state",
+        "42",
+        "--stratify",
+        "genre"
+    ],
+    "state": "running",
+    "program": "/home/stfwi/udacity/lesson-5-final-pipeline-release-and-deploy/genre_classification/segregate/run.py",
+    "codePath": "segregate/run.py",
+    "git": {
+        "remote": "https://github.com/stfwi1104/genre_classification.git",
+        "commit": "24ccc423784a129428507286341957052fadddbd"
+    },
+    "email": "stfwi@web.de",
+    "root": "/home/stfwi/udacity/lesson-5-final-pipeline-release-and-deploy/genre_classification",
+    "host": "DESKTOP-V9B9NQ0",
+    "username": "stfwi",
+    "executable": "/home/stfwi/miniconda3/envs/mlflow-8fd728ab0c323dcb4b5fa73fd16e7507e6dc09c8/bin/python"
+}

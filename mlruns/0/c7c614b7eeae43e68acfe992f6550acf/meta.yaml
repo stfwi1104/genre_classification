@@ -1,0 +1,15 @@
+artifact_uri: file:///home/stfwi/udacity/lesson-5-final-pipeline-release-and-deploy/genre_classification/mlruns/0/c7c614b7eeae43e68acfe992f6550acf/artifacts
+end_time: 1690834484783
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: c7c614b7eeae43e68acfe992f6550acf
+run_uuid: c7c614b7eeae43e68acfe992f6550acf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690834327008
+status: 3
+tags: []
+user_id: stfwi
